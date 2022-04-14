@@ -16,7 +16,7 @@ body { padding: 0; margin: 0 }
 #unity-warning { position: absolute; left: 50%; top: 5%; transform: translate(-50%); background: white; padding: 10px; display: none }
 #mikan{
   margin:0 auto;
-  padding-top: 780px;
+  padding-top: 810px;
   width: 80%;
   max-width: 1000px;
 }
